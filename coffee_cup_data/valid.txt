@@ -1,0 +1,14 @@
+ass4/data_set/validset/frame0000.jpg
+ass4/data_set/validset/frame0005.jpg
+ass4/data_set/validset/frame0012.jpg
+ass4/data_set/validset/frame0021.jpg
+ass4/data_set/validset/frame0056.jpg
+ass4/data_set/validset/frame0064.jpg
+ass4/data_set/validset/frame0077.jpg
+ass4/data_set/validset/frame0081.jpg
+ass4/data_set/validset/frame0082.jpg
+ass4/data_set/validset/frame0097.jpg
+ass4/data_set/validset/frame0106.jpg
+ass4/data_set/validset/frame0114.jpg
+ass4/data_set/validset/frame0123.jpg
+ass4/data_set/validset/frame0125.jpg
